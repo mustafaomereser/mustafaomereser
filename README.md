@@ -38,7 +38,10 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mustafaomereser&theme=tokyonight&hide_border=true&border_radius=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomereser&hide_border=true&layout=compact&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafaomereser&show_icons=true&count_private=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mustafaomereser&theme=tokyonight&hide_border=true&border_radius=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomereser&hide_border=true&layout=compact&theme=tokyonight">  
 </p>
