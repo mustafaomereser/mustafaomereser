@@ -44,3 +44,9 @@
   <img src="https://streak-stats.demolab.com?user=mustafaomereser&theme=tokyonight&hide_border=true&border_radius=8">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaomereser&hide_border=true&layout=compact&theme=tokyonight">  
 </p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mustafaomereser&label=Profile%20Views&color=1&pretty=true" />
+  </a>
+</p>
